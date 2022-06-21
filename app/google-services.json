@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31415663330",
+    "project_id": "sr-whatsapp-d434f",
+    "storage_bucket": "sr-whatsapp-d434f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31415663330:android:6608c79159f5ce0f0b3cbb",
+        "android_client_info": {
+          "package_name": "com.rajnish.srwhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31415663330-pdjdh1n1b5q14i6cgg5rmo849r0pn2nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbFW1p_83uWLfihY777uTT285f0kd3ZSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31415663330-pdjdh1n1b5q14i6cgg5rmo849r0pn2nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
