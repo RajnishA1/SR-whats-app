@@ -4,7 +4,6 @@
     package="com.rajnish.srwhatsapp">
 
     <uses-permission android:name="android.permission.INTERNET" />
-
     <uses-permission android:name="android.permission.VIBRATE" />
 
     <application
@@ -15,12 +14,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SrWhatsApp">
         <activity
+            android:name=".profiledetail"
+            android:exported="false" />
+        <activity
             android:name=".ChatPage"
             android:exported="false" />
         <activity
             android:name=".UserViewList"
-            android:launchMode="singleTop"
-            android:exported="false" />
+            android:exported="false"
+            android:launchMode="singleTop" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
@@ -33,9 +35,9 @@
 
         <service
             android:name=".FirebaseMessagingService"
+            android:exported="true"
             android:permission="TODO"
-            tools:ignore="ExportedService"
-            android:exported="true">
+            tools:ignore="ExportedService">
             <intent-filter>
                 <action android:name="com.google.firebase.MESSAGING_EVENT" />
             </intent-filter>
