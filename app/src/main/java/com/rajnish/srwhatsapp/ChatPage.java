@@ -38,6 +38,14 @@ public class ChatPage extends AppCompatActivity {
         binding = ActivityChatPageBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
 
+        binding.UserProfile.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(ChatPage.this,profiledetail.class);
+                startActivity(intent);
+            }
+        });
+
         database = FirebaseDatabase.getInstance();
         auth = FirebaseAuth.getInstance();
        final String senderId = auth.getUid();
