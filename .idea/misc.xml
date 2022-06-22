@@ -9,16 +9,18 @@
         <entry key="..\:/Users/Rajnish/AndroidStudioProjects/SrWhatsApp/app/src/main/res/drawable/senderbubble.xml" value="0.12" />
         <entry key="..\:/Users/Rajnish/AndroidStudioProjects/SrWhatsApp/app/src/main/res/layout/activity_chat_page.xml" value="0.33" />
         <entry key="..\:/Users/Rajnish/AndroidStudioProjects/SrWhatsApp/app/src/main/res/layout/activity_main.xml" value="0.296195652173913" />
-        <entry key="..\:/Users/Rajnish/AndroidStudioProjects/SrWhatsApp/app/src/main/res/layout/activity_profiledetail.xml" value="0.2826086956521739" />
         <entry key="..\:/Users/Rajnish/AndroidStudioProjects/SrWhatsApp/app/src/main/res/layout/activity_user_view_list.xml" value="0.296195652173913" />
         <entry key="..\:/Users/Rajnish/AndroidStudioProjects/SrWhatsApp/app/src/main/res/layout/row.xml" value="0.296195652173913" />
         <entry key="..\:/Users/Rajnish/AndroidStudioProjects/SrWhatsApp/app/src/main/res/layout/samplereciever.xml" value="0.33" />
         <entry key="..\:/Users/Rajnish/AndroidStudioProjects/SrWhatsApp/app/src/main/res/layout/samplesender.xml" value="0.3651452282157676" />
         <entry key="..\:/Users/Rajnish/AndroidStudioProjects/SrWhatsApp/app/src/main/res/layout/userlistshample.xml" value="0.25" />
+        <entry key="..\:/Users/Rja17/AndroidStudioProjects/SR-whats-app/app/src/main/res/layout/activity_chat_page.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/Rja17/AndroidStudioProjects/SR-whats-app/app/src/main/res/layout/activity_main.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/Rja17/AndroidStudioProjects/SR-whats-app/app/src/main/res/layout/activity_profiledetail.xml" value="0.264" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
